@@ -27,7 +27,7 @@ The following software projects, software foundations, &amp; corporations have m
 
 ### Non-Woke Software
 
-The following software projects, foundations, &amp; corporations have made statements (or taken actions) best categorized "Non-Woke", or "Right Leaning".
+The following software projects, foundations, &amp; corporations have made statements (or taken actions) best categorized "Non-Woke", "Non-DEI", or "Right Leaning".
 
 | &nbsp; | Software | Notes |
 | - | - | - |
