@@ -15,7 +15,6 @@ The following software projects, software foundations, &amp; corporations have m
 | :arrow_left: | **GNOME** | [Celebrates "Trans Day of Visibility"](https://x.com/LundukeJournal/status/2039250140557447231), ["Crush Fascism", "Free Palestine", Attacks Conservatives on official website](https://x.com/LundukeJournal/status/1986300791120884193), ["GNOME is Antifa"](https://x.com/LundukeJournal/status/1997697480452972817), [Registered Sex Offender is release manager](https://x.com/LundukeJournal/status/2034319167768125847), [Accused Framework Computer of having "Hitler Particles" for talking to Conservatives](https://x.com/LundukeJournal/status/1976046474698912019), [Pledged fealty to the UN](https://lunduke.substack.com/p/open-source-orgs-pledge-fealty-to), [Extended Pride month to "5 or 6 weeks"](https://x.com/LundukeJournal/status/1924687278393225580) |
 | :arrow_left: | **KDE** | [Attacks Conservative Jewish journalist as "Sneaky little Nazis"](https://x.com/LundukeJournal/status/1984351487468638288), [Says X users are Nazis](https://x.com/LundukeJournal/status/1983590454831804565), [Celebrates Pride Month](https://x.com/LundukeJournal/status/1929024728758403187) |
 | :arrow_left: | **Linux Foundation** | [Pledged fealty to the UN](https://lunduke.substack.com/p/open-source-orgs-pledge-fealty-to) |
-| :arrow_left: | **Bazaar** | [Includes only LGBT Theming in Software](https://x.com/LundukeJournal/status/1993088275775631440) |
 | :arrow_left: | **Software Freedom Conservancy** | [Attacks Lunduke as "Fox News of FOSS"](https://x.com/LundukeJournal/status/1962669374331895901) |
 | :arrow_left: | **Godot** | [Mass banned non-Woke users & contributors](https://x.com/LundukeJournal/status/1840601545701806571) |
 
@@ -25,7 +24,4 @@ The following software projects, foundations, &amp; corporations have made state
 
 | &nbsp; | Software | Notes |
 | - | - | - |
-| :arrow_right: | **Redot** | ["Non-Political (non-Woke) Fork" of Godot](https://x.com/LundukeJournal/status/1842335793844539823) |
 | :arrow_right: | **SQLite** | [Code of Conduct includes "Love the Lord God"](https://x.com/LundukeJournal/status/2029990961988915399) |
-| :arrow_right: | **XLibre** | [Rejects DEI discrimination of Xorg](https://x.com/LundukeJournal/status/1930727192964514137) |
-
